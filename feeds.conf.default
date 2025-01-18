@@ -5,8 +5,6 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git passwall https://github.com/kenzok8/openwrt-packages.git
 src-git passwall_dep https://github.com/kenzok8/small.git
 src-git helloworld https://github.com/fw876/helloworld
-src-git kenzo https://github.com/kenzok8/openwrt-packages
-src-git small https://github.com/kenzok8/small
 src-git haibo https://github.com/haiibo/openwrt-packages
 src-git liuran001 https://github.com/liuran001/openwrt-packages
 src-link custom /usr/src/openwrt/custom-feed
